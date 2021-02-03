@@ -1,0 +1,60 @@
+
+Z	java:S106j"9Replace this use of System.out or System.err by a logger.(ãñÀÎùÿÿÿÿ8™÷àÑö.
+M
+java:S3972S"7Move this "if" to a new line or add the missing "else".(Ûßåè
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¥©˜
+J
+java:S3740"/Provide the parametrized type for this generic.(ÿÜ‚úÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒøÖ¯
+E
+java:S3740"/Provide the parametrized type for this generic.(Âã‡
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áç¸øûÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(íó©ıÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+_
+java:S1128"BRemove this unused import 'org.omg.Messaging.SYNC_WITH_TRANSPORT'.(ßÎÂÉ8±ÑìÑö.
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íó©ıÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(Ú‹òû
+S	java:S106c"9Replace this use of System.out or System.err by a logger.(É‚±Àûÿÿÿÿ
+N	java:S106t"9Replace this use of System.out or System.err by a logger.(¿® ÿ
+L
+java:S3740 "/Provide the parametrized type for this generic.(•’‡Ò8º±‰Òö.
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÜ‚úÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(¦´÷ïÿÿÿÿÿ
+M
+java:S3972A"7Move this "if" to a new line or add the missing "else".(£Óê‹
+R
+java:S3972G"7Move this "if" to a new line or add the missing "else".(€¿¹”ÿÿÿÿÿ
+R
+java:S3972M"7Move this "if" to a new line or add the missing "else".(“Ñ›­øÿÿÿÿ
+Z	java:S106q"9Replace this use of System.out or System.err by a logger.(£šíøÿÿÿÿ8™÷àÑö.
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âã‡
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(œû¿Ø
+N	java:S106v"9Replace this use of System.out or System.err by a logger.(ŸÀé
+J
+java:S3740"/Provide the parametrized type for this generic.(Áç¸øûÿÿÿÿ
+S	java:S106w"9Replace this use of System.out or System.err by a logger.(³Å±ûÿÿÿÿ
+Z	java:S106x"9Replace this use of System.out or System.err by a logger.(¯ÿÈùÿÿÿÿ8™÷àÑö.
+\
+java:S1128"FRemove this unused import 'org.checkerframework.checker.units.qual.C'.(ÏıÁÊ
+[	java:S106’"9Replace this use of System.out or System.err by a logger.(”ª˜—øÿÿÿÿ8Ş„ Òö.
+E
+java:S3740"/Provide the parametrized type for this generic.(À¥©˜
+N	java:S106u"9Replace this use of System.out or System.err by a logger.(ûÄüù
+E
+java:S3740"/Provide the parametrized type for this generic.(ŒøÖ¯
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦´÷ïÿÿÿÿÿ
+m	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•’‡Ò8º±‰Òö.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(í°ŒÁ
+Z	java:S106n"9Replace this use of System.out or System.err by a logger.(‚é€Şûÿÿÿÿ8™÷àÑö.
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(‘¤šò
+Z	java:S106y"9Replace this use of System.out or System.err by a logger.(€àåûûÿÿÿÿ8™÷àÑö.
+M
+java:S3972Y"7Move this "if" to a new line or add the missing "else".(€öÏ›
+V	java:S106"9Replace this use of System.out or System.err by a logger.(¬©Ğ¦8å¦ÈÒö.

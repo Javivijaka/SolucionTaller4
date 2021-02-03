@@ -1,0 +1,16 @@
+TI2344919,Pedro Perez,10,Quinto,Repite
+RC6351978,Maria Martinez,5,Jardin,No Repite
+RC4953724,Lucia Lopez,7,Tercero,No Repite
+RC5424555,Ana Amaris,6,Tercero,No Repite
+TI12023002,Santiago Sanchez,10,Quinto,Repite
+RC1273391,Andrea Rodriguez,5,Primero,No Repite
+TI13486543,Sebastian Garcia,9,Cuarto,Repite
+TI8790308,Jaime Jaramillo,8,Cuarto,Repite
+TI1454941,Juan Paez,11,Quinto,Repite
+TI7986335,Alberto Alvarez,10,Cuarto,Repite
+RC13056638,Rosa Martinez,7,Segundo,No Repite
+TI4301520,Diego Diaz,12,Quinto,Repite
+RC13973270,Erika Bedoya,8,Tercero,No Repite
+RC10616029,Mariana Arbelaez,6,Segundo,No Repite
+RC10592138,Joaquin Zapata,5,Primero,No Repite
+RC14598685,Samuel Marin,4,Jardin,No Repite
